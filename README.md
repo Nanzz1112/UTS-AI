@@ -8,8 +8,7 @@
 - Kadek Angga Putra Artawan (2501010030)
 - I Gede Anggara Suryantara (2501010013)
 
-**Institut Bisnis dan Teknologi Indonesia**  
-**2026/2027**
+
 
 ---
 
