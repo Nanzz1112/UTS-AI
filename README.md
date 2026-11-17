@@ -74,3 +74,8 @@ Hasil output di latihan adalah 100% dan saat diuji/tes hasilnya 88%, dapat dilih
 Berdasarkan apa yang telah kami kerjakan, model untuk klasifikasi tingkat stres mahasiswa adalah algoritma Logistic Regression. Dimana menggunakan dataset publik yang kami temukan di Kaggle (memiliki 1000+ data) yang sudah cukup untuk memulai proyek ini.
 
 Hasil pengujian menunjukkan bahwa model Logistic Regression mampu menghasilkan akurasi data latihan sekitar 90% dan akurasi data uji sekitar 88%. Dimana ini sudah bisa dinilai stabil dan mampu menghasilkan akurasi data yang baik dibandingkan model Random Forest sebagai model pembanding yang mengalami overfitting (akurasi data latih 100% dan data uji 88%).
+
+
+
+## Link Power Point
+https://canva.link/mwziwfkircu699i
